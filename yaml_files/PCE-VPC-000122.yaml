@@ -1,0 +1,3 @@
+description: Description for VPC-122
+name: VPC-122
+subnet: 10.0.122.0/24

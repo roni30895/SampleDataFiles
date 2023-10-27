@@ -1,0 +1,3 @@
+description: Description for VPC-282
+name: VPC-282
+subnet: 10.0.282.0/24

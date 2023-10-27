@@ -1,0 +1,3 @@
+description: Description for VPC-867
+name: VPC-867
+subnet: 10.0.867.0/24

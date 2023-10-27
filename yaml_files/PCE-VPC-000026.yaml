@@ -1,0 +1,3 @@
+description: Description for VPC-26
+name: VPC-26
+subnet: 10.0.26.0/24

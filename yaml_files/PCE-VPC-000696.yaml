@@ -1,0 +1,3 @@
+description: Description for VPC-696
+name: VPC-696
+subnet: 10.0.696.0/24

@@ -1,0 +1,3 @@
+description: Description for VPC-724
+name: VPC-724
+subnet: 10.0.724.0/24

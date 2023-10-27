@@ -1,0 +1,3 @@
+description: Description for VPC-508
+name: VPC-508
+subnet: 10.0.508.0/24

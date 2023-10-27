@@ -1,0 +1,3 @@
+description: Description for VPC-33
+name: VPC-33
+subnet: 10.0.33.0/24

@@ -1,0 +1,3 @@
+description: Description for VPC-244
+name: VPC-244
+subnet: 10.0.244.0/24

@@ -1,0 +1,3 @@
+description: Description for VPC-123
+name: VPC-123
+subnet: 10.0.123.0/24

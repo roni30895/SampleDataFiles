@@ -1,0 +1,3 @@
+description: Description for VPC-70
+name: VPC-70
+subnet: 10.0.70.0/24

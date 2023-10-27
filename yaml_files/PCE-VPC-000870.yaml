@@ -1,0 +1,3 @@
+description: Description for VPC-870
+name: VPC-870
+subnet: 10.0.870.0/24

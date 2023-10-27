@@ -1,0 +1,3 @@
+description: Description for VPC-874
+name: VPC-874
+subnet: 10.0.874.0/24

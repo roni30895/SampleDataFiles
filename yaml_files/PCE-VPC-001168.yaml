@@ -1,0 +1,3 @@
+description: Description for VPC-1168
+name: VPC-1168
+subnet: 10.0.1168.0/24

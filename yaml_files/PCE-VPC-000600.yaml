@@ -1,0 +1,3 @@
+description: Description for VPC-600
+name: VPC-600
+subnet: 10.0.600.0/24

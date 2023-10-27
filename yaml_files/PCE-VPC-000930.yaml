@@ -1,0 +1,3 @@
+description: Description for VPC-930
+name: VPC-930
+subnet: 10.0.930.0/24

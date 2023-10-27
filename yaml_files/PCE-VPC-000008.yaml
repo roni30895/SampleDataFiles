@@ -1,0 +1,3 @@
+description: Description for VPC-8
+name: VPC-8
+subnet: 10.0.8.0/24

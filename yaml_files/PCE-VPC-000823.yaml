@@ -1,0 +1,3 @@
+description: Description for VPC-823
+name: VPC-823
+subnet: 10.0.823.0/24

@@ -1,0 +1,3 @@
+description: Description for VPC-324
+name: VPC-324
+subnet: 10.0.324.0/24

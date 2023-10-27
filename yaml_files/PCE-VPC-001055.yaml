@@ -1,0 +1,3 @@
+description: Description for VPC-1055
+name: VPC-1055
+subnet: 10.0.1055.0/24

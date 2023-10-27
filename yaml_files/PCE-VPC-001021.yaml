@@ -1,0 +1,3 @@
+description: Description for VPC-1021
+name: VPC-1021
+subnet: 10.0.1021.0/24

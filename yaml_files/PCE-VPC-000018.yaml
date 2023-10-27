@@ -1,0 +1,3 @@
+description: Description for VPC-18
+name: VPC-18
+subnet: 10.0.18.0/24

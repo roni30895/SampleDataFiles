@@ -1,0 +1,3 @@
+description: Description for VPC-876
+name: VPC-876
+subnet: 10.0.876.0/24

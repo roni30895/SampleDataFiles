@@ -1,0 +1,3 @@
+description: Description for VPC-317
+name: VPC-317
+subnet: 10.0.317.0/24

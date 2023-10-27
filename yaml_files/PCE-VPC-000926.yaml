@@ -1,0 +1,3 @@
+description: Description for VPC-926
+name: VPC-926
+subnet: 10.0.926.0/24

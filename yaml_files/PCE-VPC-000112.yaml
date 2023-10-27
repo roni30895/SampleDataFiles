@@ -1,0 +1,3 @@
+description: Description for VPC-112
+name: VPC-112
+subnet: 10.0.112.0/24

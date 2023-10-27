@@ -1,0 +1,3 @@
+description: Description for VPC-649
+name: VPC-649
+subnet: 10.0.649.0/24

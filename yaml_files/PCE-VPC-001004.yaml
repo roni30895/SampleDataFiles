@@ -1,0 +1,3 @@
+description: Description for VPC-1004
+name: VPC-1004
+subnet: 10.0.1004.0/24

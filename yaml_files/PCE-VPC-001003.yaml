@@ -1,0 +1,3 @@
+description: Description for VPC-1003
+name: VPC-1003
+subnet: 10.0.1003.0/24

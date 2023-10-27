@@ -1,0 +1,3 @@
+description: Description for VPC-304
+name: VPC-304
+subnet: 10.0.304.0/24

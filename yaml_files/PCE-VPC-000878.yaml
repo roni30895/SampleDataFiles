@@ -1,0 +1,3 @@
+description: Description for VPC-878
+name: VPC-878
+subnet: 10.0.878.0/24

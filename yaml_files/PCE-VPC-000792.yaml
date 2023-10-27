@@ -1,0 +1,3 @@
+description: Description for VPC-792
+name: VPC-792
+subnet: 10.0.792.0/24

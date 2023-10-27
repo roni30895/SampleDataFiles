@@ -1,0 +1,3 @@
+description: Description for VPC-1064
+name: VPC-1064
+subnet: 10.0.1064.0/24

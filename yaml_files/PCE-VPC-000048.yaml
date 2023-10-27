@@ -1,0 +1,3 @@
+description: Description for VPC-48
+name: VPC-48
+subnet: 10.0.48.0/24

@@ -1,0 +1,3 @@
+description: Description for VPC-336
+name: VPC-336
+subnet: 10.0.336.0/24

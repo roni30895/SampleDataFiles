@@ -1,0 +1,3 @@
+description: Description for VPC-695
+name: VPC-695
+subnet: 10.0.695.0/24

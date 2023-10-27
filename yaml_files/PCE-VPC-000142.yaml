@@ -1,0 +1,3 @@
+description: Description for VPC-142
+name: VPC-142
+subnet: 10.0.142.0/24

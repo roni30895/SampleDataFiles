@@ -1,0 +1,3 @@
+description: Description for VPC-118
+name: VPC-118
+subnet: 10.0.118.0/24

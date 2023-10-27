@@ -1,0 +1,3 @@
+description: Description for VPC-606
+name: VPC-606
+subnet: 10.0.606.0/24

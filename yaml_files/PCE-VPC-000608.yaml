@@ -1,0 +1,3 @@
+description: Description for VPC-608
+name: VPC-608
+subnet: 10.0.608.0/24

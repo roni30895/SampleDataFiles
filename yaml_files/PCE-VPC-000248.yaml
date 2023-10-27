@@ -1,0 +1,3 @@
+description: Description for VPC-248
+name: VPC-248
+subnet: 10.0.248.0/24

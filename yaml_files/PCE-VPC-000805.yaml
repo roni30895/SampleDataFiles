@@ -1,0 +1,3 @@
+description: Description for VPC-805
+name: VPC-805
+subnet: 10.0.805.0/24

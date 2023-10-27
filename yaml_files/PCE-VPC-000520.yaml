@@ -1,0 +1,3 @@
+description: Description for VPC-520
+name: VPC-520
+subnet: 10.0.520.0/24

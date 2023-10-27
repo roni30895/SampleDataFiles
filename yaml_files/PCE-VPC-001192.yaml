@@ -1,0 +1,3 @@
+description: Description for VPC-1192
+name: VPC-1192
+subnet: 10.0.1192.0/24

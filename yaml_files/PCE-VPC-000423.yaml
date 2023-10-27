@@ -1,0 +1,3 @@
+description: Description for VPC-423
+name: VPC-423
+subnet: 10.0.423.0/24

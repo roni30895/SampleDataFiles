@@ -1,0 +1,3 @@
+description: Description for VPC-273
+name: VPC-273
+subnet: 10.0.273.0/24

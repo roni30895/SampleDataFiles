@@ -1,0 +1,3 @@
+description: Description for VPC-783
+name: VPC-783
+subnet: 10.0.783.0/24

@@ -1,0 +1,3 @@
+description: Description for VPC-1020
+name: VPC-1020
+subnet: 10.0.1020.0/24

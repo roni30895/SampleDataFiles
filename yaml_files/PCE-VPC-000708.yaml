@@ -1,0 +1,3 @@
+description: Description for VPC-708
+name: VPC-708
+subnet: 10.0.708.0/24

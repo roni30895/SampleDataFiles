@@ -1,0 +1,3 @@
+description: Description for VPC-252
+name: VPC-252
+subnet: 10.0.252.0/24

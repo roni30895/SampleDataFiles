@@ -1,0 +1,3 @@
+description: Description for VPC-246
+name: VPC-246
+subnet: 10.0.246.0/24

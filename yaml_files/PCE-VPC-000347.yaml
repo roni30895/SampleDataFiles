@@ -1,0 +1,3 @@
+description: Description for VPC-347
+name: VPC-347
+subnet: 10.0.347.0/24

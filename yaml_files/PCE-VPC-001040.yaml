@@ -1,0 +1,3 @@
+description: Description for VPC-1040
+name: VPC-1040
+subnet: 10.0.1040.0/24

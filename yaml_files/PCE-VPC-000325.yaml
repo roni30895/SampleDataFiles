@@ -1,0 +1,3 @@
+description: Description for VPC-325
+name: VPC-325
+subnet: 10.0.325.0/24

@@ -1,0 +1,3 @@
+description: Description for VPC-286
+name: VPC-286
+subnet: 10.0.286.0/24

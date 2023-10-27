@@ -1,0 +1,3 @@
+description: Description for VPC-852
+name: VPC-852
+subnet: 10.0.852.0/24

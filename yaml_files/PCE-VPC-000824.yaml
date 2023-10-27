@@ -1,0 +1,3 @@
+description: Description for VPC-824
+name: VPC-824
+subnet: 10.0.824.0/24

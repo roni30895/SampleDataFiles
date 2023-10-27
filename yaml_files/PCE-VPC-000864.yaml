@@ -1,0 +1,3 @@
+description: Description for VPC-864
+name: VPC-864
+subnet: 10.0.864.0/24

@@ -1,0 +1,3 @@
+description: Description for VPC-605
+name: VPC-605
+subnet: 10.0.605.0/24

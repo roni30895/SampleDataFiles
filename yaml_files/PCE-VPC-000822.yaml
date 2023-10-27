@@ -1,0 +1,3 @@
+description: Description for VPC-822
+name: VPC-822
+subnet: 10.0.822.0/24

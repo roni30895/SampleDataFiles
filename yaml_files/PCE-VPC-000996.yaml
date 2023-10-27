@@ -1,0 +1,3 @@
+description: Description for VPC-996
+name: VPC-996
+subnet: 10.0.996.0/24

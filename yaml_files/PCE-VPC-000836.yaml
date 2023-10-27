@@ -1,0 +1,3 @@
+description: Description for VPC-836
+name: VPC-836
+subnet: 10.0.836.0/24

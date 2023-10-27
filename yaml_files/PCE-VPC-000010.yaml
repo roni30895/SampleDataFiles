@@ -1,0 +1,3 @@
+description: Description for VPC-10
+name: VPC-10
+subnet: 10.0.10.0/24

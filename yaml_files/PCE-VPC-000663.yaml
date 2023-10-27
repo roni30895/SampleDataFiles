@@ -1,0 +1,3 @@
+description: Description for VPC-663
+name: VPC-663
+subnet: 10.0.663.0/24

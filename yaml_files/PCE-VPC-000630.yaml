@@ -1,0 +1,3 @@
+description: Description for VPC-630
+name: VPC-630
+subnet: 10.0.630.0/24

@@ -1,0 +1,3 @@
+description: Description for VPC-402
+name: VPC-402
+subnet: 10.0.402.0/24

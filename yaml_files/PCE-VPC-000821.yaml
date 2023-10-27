@@ -1,0 +1,3 @@
+description: Description for VPC-821
+name: VPC-821
+subnet: 10.0.821.0/24

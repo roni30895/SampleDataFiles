@@ -1,0 +1,3 @@
+description: Description for VPC-904
+name: VPC-904
+subnet: 10.0.904.0/24

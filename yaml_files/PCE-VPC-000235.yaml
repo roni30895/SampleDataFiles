@@ -1,0 +1,3 @@
+description: Description for VPC-235
+name: VPC-235
+subnet: 10.0.235.0/24

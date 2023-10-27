@@ -1,0 +1,3 @@
+description: Description for VPC-343
+name: VPC-343
+subnet: 10.0.343.0/24

@@ -1,0 +1,3 @@
+description: Description for VPC-12
+name: VPC-12
+subnet: 10.0.12.0/24

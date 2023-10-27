@@ -1,0 +1,3 @@
+description: Description for VPC-195
+name: VPC-195
+subnet: 10.0.195.0/24

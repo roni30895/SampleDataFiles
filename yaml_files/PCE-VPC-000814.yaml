@@ -1,0 +1,3 @@
+description: Description for VPC-814
+name: VPC-814
+subnet: 10.0.814.0/24

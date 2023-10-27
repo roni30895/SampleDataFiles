@@ -1,0 +1,3 @@
+description: Description for VPC-326
+name: VPC-326
+subnet: 10.0.326.0/24

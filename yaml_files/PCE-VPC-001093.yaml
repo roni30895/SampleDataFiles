@@ -1,0 +1,3 @@
+description: Description for VPC-1093
+name: VPC-1093
+subnet: 10.0.1093.0/24

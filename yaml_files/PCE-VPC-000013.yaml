@@ -1,0 +1,3 @@
+description: Description for VPC-13
+name: VPC-13
+subnet: 10.0.13.0/24

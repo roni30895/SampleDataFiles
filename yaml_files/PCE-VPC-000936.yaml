@@ -1,0 +1,3 @@
+description: Description for VPC-936
+name: VPC-936
+subnet: 10.0.936.0/24

@@ -1,0 +1,3 @@
+description: Description for VPC-650
+name: VPC-650
+subnet: 10.0.650.0/24

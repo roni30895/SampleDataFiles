@@ -1,0 +1,3 @@
+description: Description for VPC-892
+name: VPC-892
+subnet: 10.0.892.0/24

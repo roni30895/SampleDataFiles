@@ -1,0 +1,3 @@
+description: Description for VPC-834
+name: VPC-834
+subnet: 10.0.834.0/24

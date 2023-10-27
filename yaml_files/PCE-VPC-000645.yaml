@@ -1,0 +1,3 @@
+description: Description for VPC-645
+name: VPC-645
+subnet: 10.0.645.0/24

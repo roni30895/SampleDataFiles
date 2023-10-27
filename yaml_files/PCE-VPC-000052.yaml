@@ -1,0 +1,3 @@
+description: Description for VPC-52
+name: VPC-52
+subnet: 10.0.52.0/24

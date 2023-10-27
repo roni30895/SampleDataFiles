@@ -1,0 +1,3 @@
+description: Description for VPC-787
+name: VPC-787
+subnet: 10.0.787.0/24

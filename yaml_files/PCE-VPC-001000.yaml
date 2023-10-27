@@ -1,0 +1,3 @@
+description: Description for VPC-1000
+name: VPC-1000
+subnet: 10.0.1000.0/24

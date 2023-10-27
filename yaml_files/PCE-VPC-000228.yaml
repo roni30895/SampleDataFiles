@@ -1,0 +1,3 @@
+description: Description for VPC-228
+name: VPC-228
+subnet: 10.0.228.0/24

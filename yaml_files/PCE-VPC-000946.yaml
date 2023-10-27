@@ -1,0 +1,3 @@
+description: Description for VPC-946
+name: VPC-946
+subnet: 10.0.946.0/24

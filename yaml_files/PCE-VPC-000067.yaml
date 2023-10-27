@@ -1,0 +1,3 @@
+description: Description for VPC-67
+name: VPC-67
+subnet: 10.0.67.0/24

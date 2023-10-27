@@ -1,0 +1,3 @@
+description: Description for VPC-894
+name: VPC-894
+subnet: 10.0.894.0/24

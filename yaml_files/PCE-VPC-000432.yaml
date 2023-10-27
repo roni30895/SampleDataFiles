@@ -1,0 +1,3 @@
+description: Description for VPC-432
+name: VPC-432
+subnet: 10.0.432.0/24

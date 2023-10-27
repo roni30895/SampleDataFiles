@@ -1,0 +1,3 @@
+description: Description for VPC-214
+name: VPC-214
+subnet: 10.0.214.0/24

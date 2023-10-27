@@ -1,0 +1,3 @@
+description: Description for VPC-95
+name: VPC-95
+subnet: 10.0.95.0/24

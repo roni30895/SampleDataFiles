@@ -1,0 +1,3 @@
+description: Description for VPC-42
+name: VPC-42
+subnet: 10.0.42.0/24

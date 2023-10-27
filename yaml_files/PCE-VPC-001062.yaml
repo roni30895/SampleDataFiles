@@ -1,0 +1,3 @@
+description: Description for VPC-1062
+name: VPC-1062
+subnet: 10.0.1062.0/24

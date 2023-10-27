@@ -1,0 +1,3 @@
+description: Description for VPC-25
+name: VPC-25
+subnet: 10.0.25.0/24

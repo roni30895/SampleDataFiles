@@ -1,0 +1,3 @@
+description: Description for VPC-871
+name: VPC-871
+subnet: 10.0.871.0/24

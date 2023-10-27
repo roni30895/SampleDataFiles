@@ -1,0 +1,3 @@
+description: Description for VPC-602
+name: VPC-602
+subnet: 10.0.602.0/24

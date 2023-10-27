@@ -1,0 +1,3 @@
+description: Description for VPC-285
+name: VPC-285
+subnet: 10.0.285.0/24

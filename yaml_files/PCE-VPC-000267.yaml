@@ -1,0 +1,3 @@
+description: Description for VPC-267
+name: VPC-267
+subnet: 10.0.267.0/24

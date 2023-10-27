@@ -1,0 +1,3 @@
+description: Description for VPC-945
+name: VPC-945
+subnet: 10.0.945.0/24
